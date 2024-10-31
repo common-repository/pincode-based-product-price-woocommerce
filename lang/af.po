@@ -1,0 +1,44 @@
+msgid "Pincode"
+msgstr "PIN-kode"
+
+msgid "Price"
+msgstr "prys"
+
+msgid "Quantity"
+msgstr "hoeveelheid"
+
+msgid "Stock"
+msgstr "voorraad"
+
+msgid "Action"
+msgstr "aksie"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Geen"
+
+msgid "Save"
+msgstr "red"
+
+msgid "Delete"
+msgstr "verwyder"
+
+msgid "Add"
+msgstr "Voeg"
+
+msgid "Close"
+msgstr "Naby"
+
+msgid "Update"
+msgstr "Opdateer"
+
+msgid "Enter Your Pincode"
+msgstr "Tik jou pincode in"
+
+msgid "Please fill your picode from where you want to purchage"
+msgstr "Vul asseblief u picode van waar u wil koop"
+
+msgid "Current Product is not Published"
+msgstr "Huidige produk is nie gepubliseer nie"

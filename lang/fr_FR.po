@@ -1,0 +1,44 @@
+msgid "Pincode"
+msgstr "Code PIN"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Quantity"
+msgstr "Quantité"
+
+msgid "Stock"
+msgstr "Stock"
+
+msgid "Action"
+msgstr "action"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Save"
+msgstr "sauvegarder"
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "Enter Your Pincode"
+msgstr "Entrez votre code"
+
+msgid "Please fill your picode from where you want to purchage"
+msgstr "S'il vous plaît remplir votre picode de l'endroit où vous voulez acheter"
+
+msgid "Current Product is not Published"
+msgstr "Le produit actuel n'est pas publié"

@@ -1,0 +1,44 @@
+msgid "Pincode"
+msgstr "Пин-код"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Quantity"
+msgstr "Количество"
+
+msgid "Stock"
+msgstr "Склад"
+
+msgid "Action"
+msgstr "действие"
+
+msgid "Yes"
+msgstr "да"
+
+msgid "No"
+msgstr "нет"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Delete"
+msgstr "удалять"
+
+msgid "Add"
+msgstr "добавлять"
+
+msgid "Close"
+msgstr "близко"
+
+msgid "Update"
+msgstr "Обновить"
+
+msgid "Enter Your Pincode"
+msgstr "Введите свой пин-код"
+
+msgid "Please fill your picode from where you want to purchage"
+msgstr "Пожалуйста, заполните ваш пикод, где вы хотите приобрести"
+
+msgid "Current Product is not Published"
+msgstr "Текущий продукт не опубликован"

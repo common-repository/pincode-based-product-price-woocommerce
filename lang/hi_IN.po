@@ -1,0 +1,44 @@
+msgid "Pincode"
+msgstr "पिन कोड"
+
+msgid "Price"
+msgstr "मूल्य"
+
+msgid "Quantity"
+msgstr "मात्रा"
+
+msgid "Stock"
+msgstr "भण्डार"
+
+msgid "Action"
+msgstr "कार्य"
+
+msgid "Yes"
+msgstr "हाँ"
+
+msgid "No"
+msgstr "नहीं"
+
+msgid "Save"
+msgstr "बचाना"
+
+msgid "Delete"
+msgstr "हटाना"
+
+msgid "Add"
+msgstr "जोड़ना"
+
+msgid "Close"
+msgstr "बंद करे"
+
+msgid "Update"
+msgstr "अद्यतन करें"
+
+msgid "Enter Your Pincode"
+msgstr "अपना पिनकोड दर्ज करें"
+
+msgid "Please fill your picode from where you want to purchage"
+msgstr "कृपया अपना पकोड भरें जहाँ से आप खरीदना चाहते हैं"
+
+msgid "Current Product is not Published"
+msgstr "वर्तमान उत्पाद प्रकाशित नहीं है"

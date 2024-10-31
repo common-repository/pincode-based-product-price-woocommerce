@@ -1,0 +1,44 @@
+msgid "Pincode"
+msgstr "Pincode"
+
+msgid "Price"
+msgstr "Praghas"
+
+msgid "Quantity"
+msgstr "Quantity"
+
+msgid "Stock"
+msgstr "Stoc"
+
+msgid "Action"
+msgstr "Gníomh"
+
+msgid "Yes"
+msgstr "Is féidir"
+
+msgid "No"
+msgstr "Níl"
+
+msgid "Save"
+msgstr "Sábháil"
+
+msgid "Delete"
+msgstr "Scrios"
+
+msgid "Add"
+msgstr "Cuir leis"
+
+msgid "Close"
+msgstr "Dún"
+
+msgid "Update"
+msgstr "Nuashonrú"
+
+msgid "Enter Your Pincode"
+msgstr "Cuir isteach Do Phincode"
+
+msgid "Please fill your picode from where you want to purchage"
+msgstr "Líon isteach do picode ón áit ar mhaith leat a cheannach"
+
+msgid "Current Product is not Published"
+msgstr "Níl an Táirge Reatha foilsithe"
